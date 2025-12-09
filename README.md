@@ -5,7 +5,7 @@
 
 </p>
 
-<h4 align="center">This is the repository for the HARDWARE DESIGN ONLY. Software for the board can be found <a href="https://github.com/1112luke/NDXPCOMPUTER">here</a></h4>
+<h4 align="center">This is the repository for the HARDWARE DESIGN ONLY. Software for the board can be found <a href="https://github.com/1112luke/ALPHA_PERIPHERAL_BOARD_FIRMWARE">here</a></h4>
 
 ## Introduction
 
